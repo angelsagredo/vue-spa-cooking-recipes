@@ -11,10 +11,7 @@
 
 ## Features
 
-- Vue + Vue Router + Vuex + Bulma
-- Login and register
-- Authentication with JWT
-- Bulma + Font Awesome
+- Vue + Vue Router + Vuex + Bulma + Font Awesome
 
 ## Installation
 
